@@ -1,0 +1,14 @@
+{
+    "name": "sylius/awesome-theme",
+    "authors": [
+        {
+            "name": "James Potter",
+            "email": "prongs@example.com"
+        }
+    ],
+    "extra": {
+        "sylius-theme": {
+            "title": "Awesome Theme"
+        }
+    }
+}

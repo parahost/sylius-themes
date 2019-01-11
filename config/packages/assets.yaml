@@ -1,0 +1,7 @@
+framework:
+    assets:
+        packages:
+            awesomeTheme:
+                json_manifest_path: '%kernel.project_dir%/public/build/awesome-theme/manifest.json'
+            anotherTheme:
+                json_manifest_path: '%kernel.project_dir%/public/build/another-theme/manifest.json'
